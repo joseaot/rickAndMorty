@@ -1,0 +1,37 @@
+.nav{
+    display: flex;
+    justify-content: end;
+    background-color: rgba(15, 15, 15, 0.75);
+    border: none;
+    padding:10px;
+    margin-left: 1050px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    border-radius: 0px 15px 15px 0px;
+    scroll-behavior: inherit;
+    scroll-behavior: initial;
+    scroll-behavior: unset;
+}
+
+.nav:hover{
+    box-shadow: 10px 10px 5px 0px rgba(255, 255, 255, 0.75);
+    transition: 1s;
+}
+
+.search{
+    width: 150px;
+    height: 25px;
+    border: none;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    color: black;
+
+}
+
+.boton{
+
+    width: 100px;
+    height: 25px;
+    border: none;
+    border-radius: 0px 15px 15px 0px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
